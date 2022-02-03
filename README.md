@@ -4,4 +4,5 @@ dette er lavet som et nybegrynder javascript projekt
 det er ligeson en helt almindelig lommeregner 
 
 AC = all clear = sletter alt 
+
 DEL = DELETE = sletter et tal af gangen
